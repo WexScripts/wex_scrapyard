@@ -1,0 +1,18 @@
+	['door'] = {
+		label = 'Vehicle door',
+		weight = 80,
+	},
+
+    	['hood'] = {
+		label = 'Vehicle hood',
+		weight = 80,
+	},
+
+    	['scrapmetal'] = {
+		label = 'Scrap Metal',
+		weight = 80,
+	},
+    	['wheel'] = {
+		label = 'Car wheel',
+		weight = 80,
+	},
